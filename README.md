@@ -6,3 +6,6 @@ A simple implementation to draw ulam spiral
 * Python3
 * numpy
 * opencv-python
+
+
+![ulam spiral](https://github.com/zyasjtu/UlamSpiral/blob/master/1531980572.jpg)
